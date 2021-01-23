@@ -1,7 +1,7 @@
 ### Hi, I'm Michael Carpenter!
 I'm a senior software engineer, tinkerer, gearhead, lifetime learner and all around nerd. I code for work and for fun, with a focus on making my own life and the lives of those around me easier by creating tooling and utilities for automation of life. I also like playing with computers, video games, electronics, automobiles, and any combination thereof.
 
-## Potions of Supreme Skills
+## Supreme Skills
 ![](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
@@ -13,7 +13,7 @@ I'm a senior software engineer, tinkerer, gearhead, lifetime learner and all aro
 ![](https://img.shields.io/badge/Lib-SqlAlchemy-informational?style=flat&logo=sqlite&logoColor=white&color=4AB197)
 
 <details>
-<summary>Potions of Superior Skills</summary>
+<summary>Superior Skills</summary>
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=4AB197)
@@ -26,7 +26,7 @@ I'm a senior software engineer, tinkerer, gearhead, lifetime learner and all aro
   
 </details>
 <details>
-<summary>Potions of Greater Skills</summary>
+<summary>Greater Skills</summary>
 
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Lib-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
@@ -34,7 +34,7 @@ I'm a senior software engineer, tinkerer, gearhead, lifetime learner and all aro
 </details>
 
 <details>
-<summary>Potions of Skills</summary>
+<summary>Skills</summary>
   
 ![](https://img.shields.io/badge/Lib-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Racket-informational?style=flat&logo=racket&logoColor=white&color=4AB197)
