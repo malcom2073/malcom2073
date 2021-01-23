@@ -8,26 +8,26 @@ I'm a senior software engineer, tinkerer, gearhead, lifetime learner and all aro
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon%20aws&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Lib-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Lib-SqlAlchemy-informational?style=flat&logo=sqlite&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cars-GM-informational?style=flat&logo=general%20motors&logoColor=white&color=4AB197)
 
 <details>
 <summary>Superior Skills</summary>
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu%20bash&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Cars-GM-informational?style=flat&logo=general%20motors&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Lib-Flask-informational?style=flat&logo=sqlite&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-c%23-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Lib-Flask-informational?style=flat&logo=sqlite&logoColor=white&color=4AB197)
   
 </details>
 <details>
 <summary>Greater Skills</summary>
 
+![](https://img.shields.io/badge/Code-c%23-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Lib-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Lib-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
   
