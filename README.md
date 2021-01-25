@@ -1,5 +1,5 @@
 ### Hi, I'm Michael Carpenter!
-I'm a senior software engineer, tinkerer, gearhead, lifetime learner and all around nerd. I code for work and for fun, with a focus on making my own life and the lives of those around me easier by creating tooling and utilities for automation of life. I also like playing with computers, video games, electronics, automobiles, and any combination thereof.
+I'm a software developer, tinkerer, maker, gearhead, lifetime learner and all around nerd. I code for work and for fun, with a focus on making my own life and the lives of those around me easier by creating tooling and utilities for automation. I also like playing with computers, video games, electronics, automobiles, any and all combinations thereof. 
 
 ## Supreme Skills
 ![](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
