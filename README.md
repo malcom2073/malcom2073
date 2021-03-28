@@ -42,5 +42,5 @@ I'm a software developer, tinkerer, maker, gearhead, lifetime learner and all ar
 </details>
 
 ## Latest project
-I tasked myself with commiting at least once per day to a github repository. Thus far the majority of it has been to ![Mikesshop.net](https://github.com/malcom2073/mikesshop.net), a project for learning ReactJS, NextJS, and Javascript in general. Additionaly this project is helping me polish my python skills, as it has a python API backend for the ReactJS frontend.
+My latest project is building a CMD from the ground up, it is located at: ![Mikesshop.net](https://github.com/malcom2073/mikesshop.net). It is intended to be a project for learning ReactJS, NextJS, and Javascript in general. Additionaly this project is helping me polish my python skills, as it has a python API backend for the ReactJS frontend.
 
